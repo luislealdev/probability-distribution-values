@@ -21,5 +21,4 @@ class ProbabilityDistribution {
   static normalCumulative(z) {
     return 0.5 * (1 + ProbabilityDistribution.erf(z / Math.sqrt(2)));
   }
-
 }
