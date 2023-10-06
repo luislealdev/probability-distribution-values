@@ -12,7 +12,8 @@
   ],
   "author": "Luis Leal",
   "license": "ISC",
-  "devDependencies": {
-    "typescript": "^5.2.2"
-  }
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luislealdev/probability-distribution-values"
+}
 }
